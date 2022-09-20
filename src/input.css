@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+    font-family: 'TBCContractica';
+}
+
 #footer_div {
     background-image: linear-gradient(150deg, #FFDF99 , #6EE7B7 30%);
 }
